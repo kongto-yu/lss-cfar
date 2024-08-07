@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: fpga-udp
+Version: 1.3.0
+Summary: FPGA UDP reader plugin using pybind11
+Home-page: https://github.com/gaoweifan/pyRadar
+Author: Weifan Gao
+Author-email: gaoweifangao@gmail.com
+Requires-Python: >=3.7
+Provides-Extra: test
+License-File: LICENSE
