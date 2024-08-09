@@ -97,8 +97,6 @@ if __name__ == '__main__':
         # 8. start UDP receiving thread
         # numframes_out,sortInC_out = dca.fastRead_in_Cpp_async_start(frameNumInBuf,sortInC=True) # method 1: async
 
-        respiration_bpm_list, heartbeat_bpm_list = [], []
-
         # 9. start Radar via serial 
         startTime = datetime.datetime.now()
         
